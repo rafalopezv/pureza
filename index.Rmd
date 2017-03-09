@@ -1,0 +1,281 @@
+---
+title: "Pureza de Jonathan Franzen"
+subtitle: "Citas"
+output: 
+    html_document:
+        highlight: kate
+        theme: cosmo
+        self_contained: false
+        fig_caption: true
+        toc: TRUE
+        toc_depth: 5
+        toc_float: TRUE
+
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+Sys.setlocale(locale = "es_ES.UTF-8")
+```
+<br>
+
+<h4><center>Casi todas las citas tiene título; son mi bautizo. A excepción de estos, puntos seguidos y textos entre paréntesis, todas son extracciones literales de la novela. Los números entre paréntesis representan los números de página de [esta edición](http://salamandra.info/libro/pureza) </center></h4>
+<br>
+<br>
+
+### Cansancio
+
+> Se me cierra el párpado del ojo izquierdo ---explicó su madre---. Es como un peso que tirase hacia abajo, como uno de esos plomos diminutos que usan los pescadores, o algo parecido. (15)
+
+### Tecnología anti-depresión:
+
+> --- Cuando te veo no estoy depre<br>
+--- Ja, lástima que no esté disponible en forma de píldora (17)
+
+### Vejez de mamá
+
+> Y así, al parecer por primera vez...miró las manos de su madre. La piel del dorso no era rosada y opaca como la suya. Era como si los huesos y las venas se estuvieran abriendo paso hacia la superficie; como si la piel fuera agua que al retirarse dejara expuestas algunas formas en el fondo de un puerto. Aunque llevaba una melena espesa y muy larga, contenía algunos mechones grises que parecían secos, y la piel de la base del cuello era como un melocotón demasiado maduro. (18-19)
+
+### Consecuencia
+
+> Sonny, el manitas con barba de montañero, para quien no había trabajo de mantenimiento, por pequeño que fuese, que no justificara todo un discurso sobre los modos de vida de los asentamientos indígenas originales  (19)
+
+### Imposibilidad de depresión
+
+> La rapidez y rotundidad con que había quedado atrapada al minuto siguiente de acabar los cuatro años de libertad universitaria era sorprendente; de haber podido permitírselo, se había deprimido (21)
+
+### La dignidad del sexo
+
+> Ya en su cuartito de la tercera planta, llevó a Jason hasta el colchón sin encender ninguna luz porque no quería que viese lo pobre que era, pero tenía sábanas limpias; era rica en limpieza. (29)
+
+### Sin título
+
+> La sonrisa de Annagret era tan cálida que daba ganas de bañarse en ella
+
+### Segundos antes de la pelea
+
+> ...fue como tirar una cerilla dentro de un horno lleno de gas, esa rabia a punto de estallar que llevaba siempre consigo; dentro de su cabeza sonó una especia de zumbido...el tono de altanería de su voz prendió un depósito de gas aún más grande y difuso (44)
+
+### Piñón del cansancio
+
+> Estaba tan hecha polvo que recorrió (caminó)...sin cambiar de piñón (57)
+
+### No creo
+
+> Se supone que las chicas tenemos al menos un poder sexual asombroso, pero últimamente, según mi experiencia, eso es una mentira que cuentan los hombres para no sentirse tan mal por acaparar TODO el poder (92)
+
+### Estándares del "primer" mundo
+
+> Para el *Berliner Zeitung* (periódico alemán) la idea de una calamidad era una medalla de bronce en los juegos olímpicos (106)
+
+### Enojo
+
+> De haber tenido cola...no la estarían meneando; de haber tenido orejas puntiagudas, las tendrían caídas (112)
+
+### Al mal tiempo...
+
+> La noche le había salido cara y no estaba dispuesto a desperdiciarla (113)
+
+### Hipsters
+
+> Tenía el cabello y los ojos oscuros, sin alardes de rebeldía en la ropa (116)
+
+### Millenials en el capitalismo
+
+> La vida era una contradicción miserable, un deseo infinito con provisiones limitadas, el nacimiento no era más que un pasaje a la muerte (136)
+
+### Guerra fría
+
+> ¿Acaso había algo que mereciera más compasión que una nación de oprimidos que lograba perseverar y triunfar por su mera capacidad de creer en si misma? ¿Con todas las manos alzadas en su contra? (138)
+
+### Róger Cortez
+
+> Había asistido a alguna conferencia suya y había visto el magnetismo que ejercía en el aula....el torrente de palabras que derramaba sin consultar una sola nota.(138)
+
+### Socialismo: Mentirse a sí mismo 
+
+> En teoría, en la República del Mal Gusto no hacían faltas psicólogos porque la neurosis era una enfermedad burguesa, una expresión morbosa de contradicciones que, por definición, no podían existir en el perfecto Estado proletario.(143)
+ 
+### Relatividad: No caes, el suelo se alza
+
+> Recordó el salto desde el puente: una sensación deliciosa de flotar en el aire al principio, pero luego una aceleración despiadada, la tierra alzándose para golpearlo con saña inercia incontrolable impacto del cuerpo dolor. (167)
+
+### El equilibrio es lo primero
+
+> El hecho de que Andreas se viera obligado a reprimir el impulso de salir corriendo tras ella y matarla con lo primero que encontrase a mano no hablaba precisamente bien de su salud mental. Y, sin embargo, el caso es que fue capaz de reprimirlo, dato que hablaba bien de su equilibrio. (173)
+
+### Locura
+
+> De nuevo desde muy lejos, se dio cuenta de que estaba razonando como un loco. Y tal vez la locura fuera precisamente eso: una válvula de emergencia para liberar la presión de la ansiedad insoportable. (177)
+
+### Todos hemos hecho el ridículo
+
+> ...puedes pensar en mi pensando en tí, porque eso es lo que estaré haciendo cada vez que pienses en mí. (182)
+
+### Relatividad: dolor y placer
+
+> Si el tiempo era infinito, entonces tres segundos y tres años representaban la misma fracción, infinitamente minúscula. Y, por lo tanto, si infligir tres años de miedo y sufrimiento estaba mal, como concedería todo el mundo, infligir, tres segundos no estaba menos mal. Le pareció ver un vislumbre fugaz de Dios en ese cálculo, en la duración infinitesimal de una vida. (185)
+
+### Sufrimiento 
+
+> ...rodeándose las rodillas con los brazos (187)
+
+### 2013-2014
+
+> Ella, incapacitada para el amor verdadero, fingía quererlo mientras él, que si la quería de verdad, explotaba su amor fingido. (203)
+
+### Estados Unidos
+
+> Guste o no guste a los estadounidenses progresistas, Amarillo (ciudad estadounidense) se parecía mucho a la imagen que el resto del mundo tenía del país entero. (222)
+
+### Perro de un solo truco
+
+> Phyllisha es una de esas chicas que sólo tienen que sacudir los ricitos dorados para que todos los hombres pierdan la cabeza. ¿Cómo es el dicho? ¿Perro de un solo truco? Pues así es ella con su pelo. Sacudida para aquí, sacudida para allá. (222)
+
+### Sin título
+
+> Con el paso del tiempo la avergonzaba de tal manera haberse imaginado como escritora de ficción que evocaba esos relatos con disgusto, como costras que no podía evitar rascarse y que, azorada, no se atrevía a arrancárselas y sangrar. (237)
+
+### Chico malo
+
+> Él iba a clase en Harley-Davison, llevaba una melena como hilachas de maíz, larga hasta los hombros de su chupa de cuero, y llamaba a los grandes maestros de la literatura por su nombre de pila.(238)
+
+### Depresión nivel felino
+
+> ...el pequeño departamento...se convirtió en la jaula maloliente de un gran felino, demasiado deprimido para cuidad de su propia higiene. (243)
+
+### Antes 
+
+>  Mi disponibilidad para dejarme engatusar ya es casi digna de salir en el libro Guiness de los récords. (315)
+
+### Más aburrida que virgen azteca sometida
+
+> ...dio un paso adelante y se hundió lentamente hasta caer de rodillas (a orillas de un río), como una virgen azteca sometida, sin grandes alegrías, al sacrificio mortal. (317)
+
+### Consuelo carnívoro
+
+> En cuanto concernía al vegetarianismo...casi había tirado la toalla del todo. Al menos, en Bolivia las vacas comían hierba. (320)
+
+### Se han visto museos
+
+> ...percibió un atisbo de cómo debía de ver el mundo Andreas (o cualquier otro/a megalómano): como esas muchedumbres de los estadios en las que cada persona tiene asignada una cartulina de un color que debe mostrar de manera coordinada con los demás para exhibir un mensaje. El mensaje que recibía a todas horas le decía que era un ser importante y especial. Entraba en el estadio y de pronto aquel mar de cuerpos indistintos dibujaba la palabra: "TE ADORAMOS..." (322)
+
+### Se han visto casos
+
+> ¿Has visto alguna vez a un hombre bailar con una mujer que se ha desmayado? Así me siento yo. Él me mueve los brazos, me lleva de un lado a otro por la pista. Tengo la cabeza caída como una muñeca de trapo, pero sigo los movimientos típicos del baile. (323)
+
+### Berlín, HSoG
+
+> ---Me fastidia que seas más guapa que yo---le dijo---. Me fastidia que siempre tenga que haber chicas alfa y que tú seas una de ellas y yo no. Que hayas ido a Stanford. Me fastidia que no tengas que preocuparte por el dinero. Y que en realidad nunca vayas a entender hasta que punto eres una privilegiada. Me fastidia que te encante el Project (trabajo) y no te moleste lo raro que es este sitio. Me fastidia que no te haga falta ser sarcástica. Me fastidia que no puedas ni imaginar lo que es ser pobre y tener deudas y que sólo tengas a uno de tus padres y esté deprimido, y que seas tan rara y antipática que ni siquiera puedas tener novio...Ah, que más da.---...negó con la cabeza, asqueada---.Es obvio que todo esto no es más que un arranque de autocompasión. (335).
+
+### El poder suda secretos por sus poros
+
+> ¿Quieres saber mi teoría acerca de los secretos?...Mi teoría es que la identidad consta de dos imperativos contradictorios...Está el imperativo de divulgarlos. ¿Cómo sabes que eres una persona distinta de las otras personas? Guardándote algunas cosas para ti. Te las quedas dentro porque en caso contrario, no habría ninguna diferencia entre el interior y el exterior. Los secretos son la manera de saber que tenemos un interior. Un exhibicionista radical es alguien que ha falsificado su identidad. Pero la identidad en el vacío también carece de sentido. Antes o después, nuestro interior necesita un testigo. Si no, nadie es más que una vaca, un gato, una piedra, un objeto en el mundo, atrapado en su condición de objeto. Para tener una identidad, necesitamos creer que existen otras identidades por igual. Necesitamos cercanía con otras personas. ¿Y cómo se construye la cercanía? Compartiendo secretos...Tu identidad existe en la intersección de esas líneas de confianza. (349)
+
+### Se han visto casos #2
+
+> Distinguir entre las sensaciones de la presa capturada entre los dientes del lobo y las de la persona enamorada resultaba difícil (360)
+
+### Caridad sexual
+
+> Su corazón volvía a reencontrarse con él y pensó si no se estaría fraguando un polvo caritativo (366)
+
+### Mi carestía no es moderada
+
+> La gente interesante nunca es moderada (373)
+
+### Tesis
+
+> Cuando no has dormido el mundo da mucho miedo (387)
+
+### Discutiendo sobre género con Suki Capobianco
+
+> Cualquier cosa que decía ...me ofrecía múltiples opciones de respuesta, cada una de las cuales a su vez provocaría distintas reacciones por su parte, ante las cuales, de nuevo, yo tendría múltiples respuestas posibles, y conocía bien la rapidez con que me podía ver arrastrado ocho o diez pasos más allá, hacia alguna rama peligrosa del árbol, así como lo desalentador que resultaría desandar los pasos para escalar la rama y llegar a algún punto neutral desde el que volver a empezar, puesto que el mero esfuerzo de desandar mis pasos provocaría manifestaciones a las que, inevitablemente, yo iba a dar cierto porcentaje de respuestas que complicarían las cosas; así que había aprendido a extremar las precauciones al respecto de lo que debía mencionar en los primeros momentos de nuestros encuentros. (404)
+
+### Coca
+
+> Unas malas hierbas que probablemente se arrepentirían pronto de su propia exuberancia ---hierbas que llegaban ya a una altura mayor de la que jamás debieran haber alcanzado, hierbas que tomaban esteroides. (406)
+
+### Nicole
+
+> En el contorno de las costillas y de la cintura tenía curvas parecidas a las que el viento excava en los picos nevados. (407)
+
+### Javier Pérez antes de casarse o Alvaro Deuer siempre
+
+> En 1991, yo era tan flaco todavía que en realidad no tenía cuerpo. (408)
+
+### Hippies
+
+> ...volvió de la universidad convertida en una hippie, con gafitas metálicas octogonales y un novio de barba bíblica. Los dos mostraron por mí un interés amistosamente clínico. (433)
+
+### Dirigente estudiantil a quien llamaba Elvis
+
+>...su pelo engominado en base a petroquímica...postura de pistolero (434)
+
+### Se han visto casos #3
+
+> ...la inserción se produjo en el punto más sensible y prohibido...Ella soltó un aullido a pleno pulmón, retrocedió y me apartó a patadas. Mis intentos de consolarla y disculparme no hicieron más que alimentar su histeria. Gimió, pataleó, hiperventiló y se empeñó en farfullar sin cesar una frase que al final conseguí descifrar, con inmenso alivio...(435) 
+
+### Huevadas
+
+> Se podría describir como una castración de mi identidad. Pero en realidad se parecía más a una disolución de las fronteras entre nuestras respectivas identidades. (474)
+
+### Enojo
+> Las largas fosas nasales...aletearon. (483)
+
+### Sin título
+
+>...empecé a perder amigos como los pierden los adictos, cancelando citas a última hora. (512)
+
+### Porque algunos comunistas quieren redistribuir la riqueza
+
+> Empiezo a creer que en realidad el dinero es la raíz de todo lo malo....En cuanto tienes dinero, tienes envidia. Ése es el problema de los comunistas, que envidian a los ricos, están obsesionados con la redistribución de la riqueza. (515)
+
+### Resultados de la expiación comunista
+
+> A lo mejor Alemania del Este había sido una gigantesca cárcel administrada por los rusos, la Stasi había encarnado los peores excesos de la autoridad y el rigor burocrático de los alemanes, y además puede que quienes tenían un mínimo de cerebro, o de ánimo, hubieran huido del país antes de que levantaran el Muro, pero los presos que habían quedado dentro para expiar la culpa colectiva, paradójicamente, se habían liberado de su germanidad. Los que conocí ...eran humildes impuntuales, espontáneos y generosos con lo poco que tenían. (517-518)
+
+### Como animal que pierde a su madre
+
+> Recosté la mejilla en su pecho y la abracé un buen rato sin pensar en nada, como un animal que acabara de perder a su madre. (520)
+
+### Concesión de huida matrimonial: fair enough
+
+> Yo había huido del matrimonio, pero la victoria moral le correspondía a ella (551)
+ 
+### Sólo porque era joven
+
+> Sólo una vez, y sólo porque era muy joven, pude fundir mi identidad con la de otra persona, y es en esas singularidades donde uno encuentra la eternidad. (554)
+
+### Indicador de ego desganado
+
+> ...ya no cumplía con el requisito fundamental de un entrevistado, que era gustarse a sí mismo. (557)
+
+### Las revoluciones que se ufanan de ser tales no son revoluciones
+
+> Lo que distinguía de una revolución legítima ---la científica, por ejemplo---era que, en vez de ufanarse de su condición revolucionaria, se limitaba a ocurrir. Sólo las débiles y recelosas, las ilegítimas, tenían que ufanarse. (558)
+
+### Las revoluciones ufanas
+
+> ...y la Revolución era al mismo tiempo históricamente inevitable y terriblemente frágil, acorralada por sus enemigos. Esa contradicción ridícula era una característica invariable de las revoluciones ufanas. No había delito, ni consecuencia imprevista tan grave que no pudiera justificarse en un sistema que debía existir pero podía fracasar con facilidad. (559) 
+
+### Los apóstoles del imperio conspiran decían, los vendepatrias acechan decían..  
+
+> El verdadero atractivo de ser un *apparatchik* era la seguridad que conllevaba encajar. Fuera, el aire olía a azufre, se comía mal, la economía estaba moribunda, el escepticismo proliferaba, mientras que dentro la victoria contra el enemigo de clase estaba asegurada. Dentro, el profesor y el ingeniero aprendían a los pies del trabajador.... Fuera, la clase media desaparecía más rápido que los glaciares, los xenófobos ganaban elecciones o almacenaban rifles de asalto, las tribus enfrentadas se masacraban religiosamente, mientras que dentro las nuevas tecnologías disruptivas hacían obsoleta la política tradicional. Dentro, las comunidades descentralizadas ad hoc estaban reescribiendo las reglas de la creatividad, la revolución premiaba a quienes asumían riesgos y entendían el potencial de las redes. El Nuevo Régimen reciclaba incluso las palabras clave que la antigua República había usado: colectivo, colaborativo. En ambos casos se consideraba un axioma la emergencia de una nueva especie de la humanidad. En eso los *apparatchik* de toda calaña estaban de acuerdo. No parecía preocuparles que sus élites gobernantes estuvieran formadas por la vieja especie de la humanidad, avariciosa y brutal. (559)
+
+### Manual del totalitarismo
+
+> manual del totalitarismo: repudiar los métodos propios del terror imputándoselos al enemigo y a la vez presentándote como la única defensa posible contra él (571)
+
+### Vendo válvulas 
+
+> Y no tenía ninguna válvula de escape aceptable para la rabia de los celos (572)
+
+### Sobriedad en tiempos de internet: borrar el porno 
+
+> Una vez en casa, borró de su disco duro todas las obscenidades que había descargado. Aquella nueva sensación de estar sobrio y tener un propósito en la vida estaba a la altura de arrebato compulsivo que había tenido que experimentar para alcanzarla. (587)
+
+### Truco de primeras citas
+
+> ...ese nuevo lugar tendría que estar siempre limpio y en orden para transmitir una sensación de dominio de sí mismo. (587)
+
+
